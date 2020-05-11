@@ -1,4 +1,4 @@
-# BP_Tests
+# BP Tests
 Implementations of segmentation algorithms that I was testing against in my Thesis
 
 ## Cuda Quickshift implementation
